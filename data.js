@@ -13,7 +13,7 @@ const T = {
  "intro": {
   "title": "The weather around the tree",
   "pars": [
-   "The Missiological Family Tree (Assessment 1.1) described what OneHope says it is supposed to be doing: a trunk of missio Dei conviction, four branches of distinct inheritance, and the Nine Core Values as fruit. It also drew the bare branches. This paper describes what is actually happening around that tree. A tree can be healthy in its roots and still fail to fruit if the weather is wrong, and this assignment asks for the weather: the problems, needs, gaps, and opportunities of the context, grouped by the factors that cause them, measured against the mission of God, and explained by the forces that let them persist.<sup><a href=\"#n1\" id=\"r1\">1</a></sup>",
+   "The Missiological Family Tree described what OneHope says it is supposed to be doing: a trunk of missio Dei conviction, four branches of distinct inheritance, and the Nine Core Values as fruit. It also drew the bare branches. This paper describes what is actually happening around that tree. A tree can be healthy in its roots and still fail to fruit if the weather is wrong, and this paper is about the weather: the problems, needs, gaps, and opportunities of the context, grouped by the factors that cause them, measured against the mission of God, and explained by the forces that let them persist.",
    "The thesis is in two parts. First, OneHope's ten most pressing contextual needs trace to three underlying factors. Two are inherited and already owned by leadership: a distribution operating model wedded to an activist wineskin, and a parachurch ecclesiology that has never been written down. One is new: a mediated world arriving first in the geographies where infrastructure fails and the church is densest. Second, the new factor is the one to carry into a doctoral project, because it has no owner, no theology, no funding lane, and the youngest stakeholders.",
    "A conviction runs under the analysis, and the title names it. In each category the shortfall is sustained by a demand for the perfect: the perfect metric before the story changes, the perfect decision-rights document before anyone acts, the perfect ecclesiology before the movement is funded, the perfect connectivity before the child in the village is served. The missio Dei does not wait for perfect conditions; it is carried by a people sent before they were ready. At the mediated frontier the choice is rarely between good and better. It is between something and nothing."
   ]
@@ -21,7 +21,7 @@ const T = {
  "method": {
   "title": "Method",
   "pars": [
-   "The Problems, Needs, Gaps, Opportunities (PNGO) exercise was run against the 2027 strategy meetings of August 2026, an internal survey of 57 senior leaders from the same month, the September 2026 missiology intensive, and two years of field, research, and partner conversations in the author's working notes.<sup><a href=\"#n2\" id=\"r2\">2</a></sup> Internal sources are cited generically and no individual is named. Ten items were chosen for missiological weight rather than operational urgency and grouped by common underlying factor; the grid is Appendix A. Each category is analyzed against the missio Dei, with Wright's biblical theology of mission as the primary lens, and a hypothesis is offered for the \"market forces,\" the incentives and flows of money and attention, that make the shortfall stable rather than accidental.<sup><a href=\"#n3\" id=\"r3\">3</a></sup>"
+   "The Problems, Needs, Gaps, Opportunities (PNGO) exercise was run against the 2027 strategy meetings of August 2026, an internal survey of 57 senior leaders from the same month, the September 2026 missiology intensive, and two years of field, research, and partner conversations in the author's working notes.<sup><a href=\"#n1\" id=\"r1\">1</a></sup> Internal sources are cited generically and no individual is named. Ten items were chosen for missiological weight rather than operational urgency and grouped by common underlying factor; the grid is Appendix A. Each category is analyzed against the missio Dei, with Wright's biblical theology of mission as the primary lens, and a hypothesis is offered for the \"market forces,\" the incentives and flows of money and attention, that make the shortfall stable rather than accidental.<sup><a href=\"#n2\" id=\"r2\">2</a></sup>"
   ]
  },
  "factorsTitle": "Three underlying factors",
@@ -41,9 +41,9 @@ const T = {
     "branch-a",
     "branch-b"
    ],
-   "itemsLine": "Reach remains the public story while outcomes are the private theology; partner segmentation is optimized for free print to a small rural church; decision rights are the number-one crack senior leaders name in the structure; capacity, margin, and pace are the second.<sup><a href=\"#n4\" id=\"r4\">4</a></sup>",
-   "factor": "OneHope was born in 1987 as a print-distribution ministry to schools, funded from the West, measured in books delivered, and carried by a Pentecostal activism that treats urgency as a virtue and rest as a risk.<sup><a href=\"#n5\" id=\"r5\">5</a></sup> The theology moved from product to outcome in the research turn of 2006 to 2009, but the operating model, the per-child cost, the partner list, and the public story still carry the founding shape. The matrix was built to force collaboration and built without decision rules, so ownership ambiguity presents not as conflict but as waiting.",
-   "missio": "The gospel is God's gospel; \"the church comes at the bottom of the list,\" and its witness is always subordinate to the Spirit's.<sup><a href=\"#n6\" id=\"r6\">6</a></sup> A reach story quietly inverts that order. It makes the organization the agent and the child the recipient, and it trains the believer who hears \"two billion children\" to conclude that the only contribution left to them is financial.<sup><a href=\"#n7\" id=\"r7\">7</a></sup> God's people are \"coworkers with God in the field that is God's world,\" and coworkers have limits that the field's owner does not.<sup><a href=\"#n8\" id=\"r8\">8</a></sup> An organization that cannot say \"stop\" has mislocated the agent of mission in itself, and governance it treats as administration rather than stewardship will stay thin, because the theological gap and the structural gap close together or not at all.",
+   "itemsLine": "Reach remains the public story while outcomes are the private theology; partner segmentation is optimized for free print to a small rural church; decision rights are the number-one crack senior leaders name in the structure; capacity, margin, and pace are the second.<sup><a href=\"#n3\" id=\"r3\">3</a></sup>",
+   "factor": "OneHope was born in 1987 as a print-distribution ministry to schools, funded from the West, measured in books delivered, and carried by a Pentecostal activism that treats urgency as a virtue and rest as a risk.<sup><a href=\"#n4\" id=\"r4\">4</a></sup> The theology moved from product to outcome in the research turn of 2006 to 2009, but the operating model, the per-child cost, the partner list, and the public story still carry the founding shape. The matrix was built to force collaboration and built without decision rules, so ownership ambiguity presents not as conflict but as waiting.",
+   "missio": "The gospel is God's gospel; \"the church comes at the bottom of the list,\" and its witness is always subordinate to the Spirit's.<sup><a href=\"#n5\" id=\"r5\">5</a></sup> A reach story quietly inverts that order. It makes the organization the agent and the child the recipient, and it trains the believer who hears \"two billion children\" to conclude that the only contribution left to them is financial.<sup><a href=\"#n6\" id=\"r6\">6</a></sup> God's people are \"coworkers with God in the field that is God's world,\" and coworkers have limits that the field's owner does not.<sup><a href=\"#n7\" id=\"r7\">7</a></sup> An organization that cannot say \"stop\" has mislocated the agent of mission in itself, and governance it treats as administration rather than stewardship will stay thin, because the theological gap and the structural gap close together or not at all.",
    "market": "Donors buy reach because reach is legible and outcomes are slow, and a per-child cost is the cheapest number the system produces. Free print to a rural church was the perfect segmentation for what the organization used to do, so every innovation re-surfaces the same misalignment. Activism is what boards, donors, and the tradition reward, and a nonprofit's structural incentive is to say yes. Artificial intelligence is now framed internally as a capacity multiplier rather than a cost saver, which removes the last natural ceiling on pace.",
    "statusText": "Owned. Donor diversification, projectization, a reset of the cost model, and think tanks chartered to document decision rights are all in motion. It is not the doctoral seam."
   },
@@ -59,9 +59,9 @@ const T = {
    "tree": [
     "branch-d"
    ],
-   "itemsLine": "A rich theology of partnership with the church and a thin theology of what the church is; and twenty years of research on the child and the family that program design has not yet absorbed.<sup><a href=\"#n9\" id=\"r9\">9</a></sup>",
-   "factor": "Parachurch origin, plus an Assemblies of God indigenous-church inheritance that was practiced but never articulated. Neither founder cites Melvin Hodges in print, though the self-governing, self-supporting, self-propagating church is the obvious ancestor of the catalyst posture.<sup><a href=\"#n10\" id=\"r10\">10</a></sup> OneHope knows how to serve the church. It has not said what the church is, and so has not said what a child is, what a family is as a unit of mission, or what a movement is once it is no longer a branded program. Movement work has no funding lane, and the value \"Entrusting\" has a verse but not a doctrine.",
-   "missio": "The mission of God has a church. For Newbigin the congregation is the hermeneutic of the gospel; the sent community is the form the mission takes, not a channel for it.<sup><a href=\"#n11\" id=\"r11\">11</a></sup> God's intention to bless the nations is joined to a people's obedience, and that people is a community, not a program.<sup><a href=\"#n12\" id=\"r12\">12</a></sup> God does not make himself known \"so that knowledge of him should die with us\"; the finding that parents are the ceiling on a child's faith is a rediscovery of Deuteronomy 6, not a new idea.<sup><a href=\"#n13\" id=\"r13\">13</a></sup>",
+   "itemsLine": "A rich theology of partnership with the church and a thin theology of what the church is; and twenty years of research on the child and the family that program design has not yet absorbed.<sup><a href=\"#n8\" id=\"r8\">8</a></sup>",
+   "factor": "Parachurch origin, plus an Assemblies of God indigenous-church inheritance that was practiced but never articulated. Neither founder cites Melvin Hodges in print, though the self-governing, self-supporting, self-propagating church is the obvious ancestor of the catalyst posture.<sup><a href=\"#n9\" id=\"r9\">9</a></sup> OneHope knows how to serve the church. It has not said what the church is, and so has not said what a child is, what a family is as a unit of mission, or what a movement is once it is no longer a branded program. Movement work has no funding lane, and the value \"Entrusting\" has a verse but not a doctrine.",
+   "missio": "The mission of God has a church. For Newbigin the congregation is the hermeneutic of the gospel; the sent community is the form the mission takes, not a channel for it.<sup><a href=\"#n10\" id=\"r10\">10</a></sup> God's intention to bless the nations is joined to a people's obedience, and that people is a community, not a program.<sup><a href=\"#n11\" id=\"r11\">11</a></sup> God does not make himself known \"so that knowledge of him should die with us\"; the finding that parents are the ceiling on a child's faith is a rediscovery of Deuteronomy 6, not a new idea.<sup><a href=\"#n12\" id=\"r12\">12</a></sup>",
    "market": "A parachurch's legitimacy and fundraising depend on being needed, so an ecclesiology that makes it less necessary is institutionally expensive. Branded programs raise money; movements do not. Disaffiliation from the denominational covering removed external ecclesial accountability. Partner churches want their own value proposition and are handed the organization's outcome.",
    "statusText": "Partly owned, through the parent platform, the 18-to-24 strategy, and the movement think tanks. The ecclesiology itself is a theologian's problem before it is a practitioner's project. It overlaps the next category at the question of online church."
   },
@@ -79,10 +79,10 @@ const T = {
    "tree": [
     "bare-technology"
    ],
-   "itemsLine": "There is no stated theology of mediation or ecclesiology of the digital; \"digital\" is still treated as an amplification layer run by the technically gifted rather than as formation that travels through a medium. Digital strategy assumes a personal device, affordable data, and grid power, and a uniform global KPI silently rewards the regions that have them. Global South children and youth are absent from the ministry-AI conversation and positioned as consumers rather than builders; Africa contributes under about two percent of major models' training data, and Western-trained models default to Western narrative shapes, so a child served in flawless Swahili can still absorb an imported sense of how a story goes. And there is no missiology of the displaced child, though the founder's formative decade was a civil war and the organization's most sensitive work is in closed countries.<sup><a href=\"#n14\" id=\"r14\">14</a></sup>",
+   "itemsLine": "There is no stated theology of mediation or ecclesiology of the digital; \"digital\" is still treated as an amplification layer run by the technically gifted rather than as formation that travels through a medium. Digital strategy assumes a personal device, affordable data, and grid power, and a uniform global KPI silently rewards the regions that have them. Global South children and youth are absent from the ministry-AI conversation and positioned as consumers rather than builders; Africa contributes under about two percent of major models' training data, and Western-trained models default to Western narrative shapes, so a child served in flawless Swahili can still absorb an imported sense of how a story goes. And there is no missiology of the displaced child, though the founder's formative decade was a civil war and the organization's most sensitive work is in closed countries.<sup><a href=\"#n13\" id=\"r13\">13</a></sup>",
    "factor": "A twentieth-century print missiology is meeting a mediated world, and meeting it first where infrastructure fails. OneHope has a theology of distribution but not of mediation, digital programs but no ecclesiology of the digital. It is in the room with AI developers while the children who will live longest with these tools are discussed rather than present. The displaced child is the limit case: the medium may be her only available church, and its defaults are set by someone who has never met her.",
-   "missio": "Four shortfalls. First, mediation is in the grain of God's mission, not a concession to it. \"God's word is the perfect missionary, bearing fruit entirely as God plans\"; the Word that does not return empty (Isa 55:10–11) is the root of OneHope's own conviction that it is not the distribution of Scripture that brings life but its entrance.<sup><a href=\"#n15\" id=\"r15\">15</a></sup> Scripture is itself a medium, and the incarnation is God's chosen mediation; to treat digital as an amplification layer is to hold a thinner theology of the Word than Scripture holds of itself. Presence \"can begin through a screen in the digital age, but it is still a human relationship, with responsibilities that continue beyond the exchange of messages.\"<sup><a href=\"#n16\" id=\"r16\">16</a></sup> Second, mission now runs from everywhere to everywhere, and the Global South is the century's church; its youth are agents of the missio Dei, not its target market.<sup><a href=\"#n17\" id=\"r17\">17</a></sup> A consumer posture toward them is the pioneer posture in a new form. Third, the mission of God is good news to the poor and release to the captive (Luke 4:18–19); the redeemed \"must live redemptively towards others, especially those who are now in the same kind of need.\"<sup><a href=\"#n18\" id=\"r18\">18</a></sup> A digital strategy that rewards the connected is a preferential option for the connected. Fourth, the missio Dei has a church, so formation that travels through a medium must still land in a community where the person is known; a subscriber is not someone who is known, and \"when words are simulated, they do not build genuine relationships, but only their appearance.\"<sup><a href=\"#n19\" id=\"r19\">19</a></sup>",
-   "market": "AI economics serve markets, not constituencies: training data, language support, and pricing follow revenue, so accommodation for Africa is granted or withheld rather than co-decided. The church's digital Bible presence is a hits business, with saturation near zero across twenty-five nations and the top ten creators in each holding most of the followers, which rewards the marginal follower over the marginal creator.<sup><a href=\"#n20\" id=\"r20\">20</a></sup> Infrastructure follows capital and talent follows infrastructure, so the young people most able to raise a place's capacity are the ones whose ambitions require them to leave it. What technology wants, Crouch argues, is what Mammon wants: \"context-free, responsibility-free, dependence-free power.\"<sup><a href=\"#n21\" id=\"r21\">21</a></sup> OneHope's own reach incentives (Category A) make aggregate digital metrics the cheapest output, and ministry-AI convenings are organized by and for senior adult pastors because they hold the budgets.",
+   "missio": "Four shortfalls. First, mediation is in the grain of God's mission, not a concession to it. \"God's word is the perfect missionary, bearing fruit entirely as God plans\"; the Word that does not return empty (Isa 55:10–11) is the root of OneHope's own conviction that it is not the distribution of Scripture that brings life but its entrance.<sup><a href=\"#n14\" id=\"r14\">14</a></sup> Scripture is itself a medium, and the incarnation is God's chosen mediation; to treat digital as an amplification layer is to hold a thinner theology of the Word than Scripture holds of itself. Presence \"can begin through a screen in the digital age, but it is still a human relationship, with responsibilities that continue beyond the exchange of messages.\"<sup><a href=\"#n15\" id=\"r15\">15</a></sup> Second, mission now runs from everywhere to everywhere, and the Global South is the century's church; its youth are agents of the missio Dei, not its target market.<sup><a href=\"#n16\" id=\"r16\">16</a></sup> A consumer posture toward them is the pioneer posture in a new form. Third, the mission of God is good news to the poor and release to the captive (Luke 4:18–19); the redeemed \"must live redemptively towards others, especially those who are now in the same kind of need.\"<sup><a href=\"#n17\" id=\"r17\">17</a></sup> A digital strategy that rewards the connected is a preferential option for the connected. Fourth, the missio Dei has a church, so formation that travels through a medium must still land in a community where the person is known; a subscriber is not someone who is known, and \"when words are simulated, they do not build genuine relationships, but only their appearance.\"<sup><a href=\"#n18\" id=\"r18\">18</a></sup>",
+   "market": "AI economics serve markets, not constituencies: training data, language support, and pricing follow revenue, so accommodation for Africa is granted or withheld rather than co-decided. The church's digital Bible presence is a hits business, with saturation near zero across twenty-five nations and the top ten creators in each holding most of the followers, which rewards the marginal follower over the marginal creator.<sup><a href=\"#n19\" id=\"r19\">19</a></sup> Infrastructure follows capital and talent follows infrastructure, so the young people most able to raise a place's capacity are the ones whose ambitions require them to leave it. What technology wants, Crouch argues, is what Mammon wants: \"context-free, responsibility-free, dependence-free power.\"<sup><a href=\"#n20\" id=\"r20\">20</a></sup> OneHope's own reach incentives (Category A) make aggregate digital metrics the cheapest output, and ministry-AI convenings are organized by and for senior adult pastors because they hold the budgets.",
    "statusText": "No owner, no theology, no funding lane, and the youngest stakeholders. This is the bare branch the Family Tree flagged, and it is the doctoral seam."
   }
  ],
@@ -302,7 +302,7 @@ const T = {
   "title": "The chosen category and the technology oasis",
   "pars": [
    "Category C is the choice. It is the only category without an executive owner; the only one in which those most affected are children and youth, which is the organization's mission; the one where the author's seat in technology and operations, the organization's networks in Africa and the digital-mission alliances, and the author's calling converge; and the one in which the inherited factors all appear in miniature, so working it tests the whole tree.",
-   "The singular solution, held as a direction and not a destination, is the <strong>technology oasis</strong>: a church-custodied, locally hosted infrastructure of power, a resident AI model, shared devices, and contextualized training, through which under-resourced young people pursue what God is calling them to without leaving their community, built on a stated theology of mediation and an ecclesiology of the mediated church.<sup><a href=\"#n22\" id=\"r22\">22</a></sup> It survives the three failures that define an infrastructure desert: solar and battery for grid power, a resident model for connectivity, a shared installation for affordability. It is the degraded end of a continuum, and the point is the gap between something and nothing, not between this and a frontier model. The church rather than the office or the school because the church is dense exactly where infrastructure fails, is already a gathering point, and has a custodian."
+   "The singular solution, held as a direction and not a destination, is the <strong>technology oasis</strong>: a church-custodied, locally hosted infrastructure of power, a resident AI model, shared devices, and contextualized training, through which under-resourced young people pursue what God is calling them to without leaving their community, built on a stated theology of mediation and an ecclesiology of the mediated church.<sup><a href=\"#n21\" id=\"r21\">21</a></sup> It survives the three failures that define an infrastructure desert: solar and battery for grid power, a resident model for connectivity, a shared installation for affordability. It is the degraded end of a continuum, and the point is the gap between something and nothing, not between this and a frontier model. The church rather than the office or the school because the church is dense exactly where infrastructure fails, is already a gathering point, and has a custodian."
   ],
   "solution": "The singular solution, held as a direction and not a destination, is the <strong>technology oasis</strong>: a church-custodied, locally hosted infrastructure of power, a resident AI model, shared devices, and contextualized training, through which under-resourced young people pursue what God is calling them to without leaving their community, built on a stated theology of mediation and an ecclesiology of the mediated church.",
   "reach": [
@@ -323,7 +323,7 @@ const T = {
     "text": "The same design in a camp or diaspora setting, with a culture-of-origin default, preserves a narrative tradition no local institution can give the displaced child."
    }
   ],
-  "limits": "Two limits should be said plainly. The oasis does not fix the uniform global KPI; that belongs to Category A and the SWOT of Assessment 2.2. And it creates a gatekeeping risk: a church that becomes the only door to opportunity holds power it did not ask for, so the design must keep the resource open to a young person the church would not otherwise have chosen. The encyclical's warning applies to the builders as much as the tools: progress \"without a corresponding ethical and social progress\" yields \"an increase in means without a growth in humanity.\"<sup><a href=\"#n23\" id=\"r23\">23</a></sup>"
+  "limits": "Two limits should be said plainly. The oasis does not fix the uniform global KPI; that belongs to Category A and to a later analysis of strengths, weaknesses, opportunities, and threats. And it creates a gatekeeping risk: a church that becomes the only door to opportunity holds power it did not ask for, so the design must keep the resource open to a young person the church would not otherwise have chosen. The encyclical's warning applies to the builders as much as the tools: progress \"without a corresponding ethical and social progress\" yields \"an increase in means without a growth in humanity.\"<sup><a href=\"#n22\" id=\"r22\">22</a></sup>"
  },
  "conclusion": {
   "title": "Conclusion",
@@ -335,94 +335,90 @@ const T = {
  "notes": [
   {
    "n": 1,
-   "html": "Southeastern University, \"MISS 7013 Missional Theology: Syllabus,\" Assessment 2.1 (Lakeland, FL: Southeastern University, 2026), 13."
-  },
-  {
-   "n": 2,
    "html": "OneHope, 2027 Strategy Meetings, internal sessions, August 24–27, 2026; OneHope, internal survey of senior leaders on organizational \"wineskin cracks,\" August 2026. Both unpublished; cited with permission and without attribution to individuals."
   },
   {
-   "n": 3,
+   "n": 2,
    "html": "Christopher J. H. Wright, <em>The Mission of God's People: A Biblical Theology of the Church's Mission</em> (Grand Rapids: Zondervan, 2010), 17."
   },
   {
-   "n": 4,
+   "n": 3,
    "html": "OneHope, internal survey of senior leaders, August 2026. The three cracks named most often, in order, were decision rights and ownership; capacity, margin, and pace; and movement and field ownership."
   },
   {
-   "n": 5,
+   "n": 4,
    "html": "On activism as the fourth distinctive of evangelicalism, see David W. Bebbington, <em>Evangelicalism in Modern Britain: A History from the 1730s to the 1980s</em> (London: Unwin Hyman, 1989), 2–3. On the founding, see Rob Hoskins, \"Bringing Clarity to 21st Century Missions\" (address, 2019), transcript in the author's possession."
   },
   {
-   "n": 6,
+   "n": 5,
    "html": "John Stott, <em>Our Guilty Silence: The Church, the Gospel and the World</em> (London: Hodder &amp; Stoughton, 1967), 57, quoted in Wright, <em>Mission of God's People</em>, 199."
   },
   {
-   "n": 7,
+   "n": 6,
    "html": "The diagnosis that an impact narrative told in millions and billions trains believers to see themselves as funders rather than participants was surfaced at a Digital Mission Consortia working session, May 2026 (author's notes)."
   },
   {
-   "n": 8,
+   "n": 7,
    "html": "Wright, <em>Mission of God's People</em>, 260."
   },
   {
-   "n": 9,
+   "n": 8,
    "html": "OneHope, <em>Global Youth Culture: Online and Off-Course</em> (Pompano Beach, FL: OneHope, 2020); on the three pillars of Scripture engagement, faith community, and family, and on parents as the ceiling of a child's religious commitment, see the OneHope research presentations at the Hoskins School intensive, September 10–11, 2026 (author's notes)."
   },
   {
-   "n": 10,
+   "n": 9,
    "html": "Melvin L. Hodges, <em>The Indigenous Church</em> (Springfield, MO: Gospel Publishing House, 1953), 1–13."
   },
   {
-   "n": 11,
+   "n": 10,
    "html": "Lesslie Newbigin, <em>The Gospel in a Pluralist Society</em> (Grand Rapids: Eerdmans, 1989), 222–33."
   },
   {
-   "n": 12,
+   "n": 11,
    "html": "Wright, <em>Mission of God's People</em>, 80."
   },
   {
-   "n": 13,
+   "n": 12,
    "html": "John Calvin, <em>Genesis</em>, Crossway Classic Commentaries (Wheaton, IL: Crossway, 2001), 177, quoted in Wright, <em>Mission of God's People</em>, 83."
   },
   {
-   "n": 14,
+   "n": 13,
    "html": "World Bank, <em>Africa Economic Update, October 2026: Building AI Readiness</em> (Washington, DC: World Bank, 2026), executive summary, <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.</a> On positioning Global South youth as builders, see the drafting discussions around an evangelical declaration on AI, 2026 (author's notes; unpublished at the time of writing); on narrative-shape defaults, the author's comparison of four models generating Swahili children's stories, November 2026 (unpublished). On the founder's formative years and eschatology, see Bob Hoskins, \"To Which Kingdom Do You Belong?\" (sermon, Calvary Chapel Fort Lauderdale, Fort Lauderdale, FL, August 28, 2026), video, <a href=\"https://www.youtube.com/watch?v=4pm-2u3eRbI.\">https://www.youtube.com/watch?v=4pm-2u3eRbI.</a>"
   },
   {
-   "n": 15,
+   "n": 14,
    "html": "Wright, <em>Mission of God's People</em>, 208."
   },
   {
-   "n": 16,
+   "n": 15,
    "html": "Todd J. Korpi, \"The Machine in the Mirror: What an AI-Created Religion Reveals About Spirit-Empowered Ministry,\" <em>Spiritus: ORU Journal of Theology</em> 11, no. 2 (2026): 173, <a href=\"https://doi.org/10.31380/2573-6345.1439.\">https://doi.org/10.31380/2573-6345.1439.</a>"
   },
   {
-   "n": 17,
+   "n": 16,
    "html": "Timothy C. Tennent, <em>Invitation to World Missions: A Trinitarian Missiology for the Twenty-First Century</em> (Grand Rapids: Kregel, 2010), 33–42."
   },
   {
-   "n": 18,
+   "n": 17,
    "html": "Wright, <em>Mission of God's People</em>, 106."
   },
   {
-   "n": 19,
+   "n": 18,
    "html": "Leo XIV, <em>Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence</em> (Vatican City: Libreria Editrice Vaticana, 2026), §100."
   },
   {
-   "n": 20,
+   "n": 19,
    "html": "Adam Graber and Toby Beresford, <em>Digital Nations: Mapping the Church's Online Opportunities</em> (Swindon: Bible Society, 2025), <a href=\"https://www.biblesociety.org.uk/research/digital-nations.\">https://www.biblesociety.org.uk/research/digital-nations.</a>"
   },
   {
-   "n": 21,
+   "n": 20,
    "html": "Andy Crouch, \"As for Me and My Household, We'll Resist Mammon,\" <em>Christianity Today</em> 66, no. 4 (2022): 72."
   },
   {
-   "n": 22,
+   "n": 21,
    "html": "The oasis concept and its three design failures were first set out by the author in a OneHope technology strategy conversation, 2026, and sharpened in doctoral coaching, November 2026 (author's notes)."
   },
   {
-   "n": 23,
+   "n": 22,
    "html": "Leo XIV, <em>Magnifica Humanitas</em>, §94."
   }
  ],
@@ -439,7 +435,6 @@ const T = {
   "OneHope. <em>Global Youth Culture: Online and Off-Course</em>. Pompano Beach, FL: OneHope, 2020.",
   "OneHope. Internal survey of senior leaders on organizational \"wineskin cracks.\" August 2026. Unpublished.",
   "OneHope. 2027 Strategy Meetings. Internal sessions, August 24–27, 2026. Unpublished.",
-  "Southeastern University. \"MISS 7013 Missional Theology: Syllabus.\" Lakeland, FL: Southeastern University, 2026.",
   "Stott, John. <em>Our Guilty Silence: The Church, the Gospel and the World</em>. London: Hodder &amp; Stoughton, 1967.",
   "Tennent, Timothy C. <em>Invitation to World Missions: A Trinitarian Missiology for the Twenty-First Century</em>. Grand Rapids: Kregel, 2010.",
   "World Bank. <em>Africa Economic Update, October 2026: Building AI Readiness</em>. Washington, DC: World Bank, 2026. <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.</a>",

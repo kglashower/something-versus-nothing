@@ -1,6 +1,6 @@
 # Something Versus Nothing: Mission at the Mediated Frontier
 
-Contextual problems, needs, gaps, and opportunities in OneHope's ministry context. MISS 7013 Missional Theology, Assessment 2.1, Southeastern University. A sibling of [A Missiological Family Tree](https://kglashower.github.io/missiological-family-tree/) (Assessment 1.1), which it links to throughout.
+Contextual problems, needs, gaps, and opportunities in OneHope's ministry context. Kyle Glashower, MISS 7013 Missional Theology, Southeastern University, Fall 2026. A sibling of [A Missiological Family Tree](https://kglashower.github.io/missiological-family-tree/), which it links to throughout.
 
 A static site: `index.html`, `styles.css`, `script.js`, and `data.js`. No build step.
 
