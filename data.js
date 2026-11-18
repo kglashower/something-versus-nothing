@@ -383,7 +383,7 @@ const T = {
   },
   {
    "n": 13,
-   "html": "World Bank, <em>Africa Economic Update, October 2026: Building AI Readiness</em> (Washington, DC: World Bank, 2026), executive summary, <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.</a> On positioning Global South youth as builders, see the drafting discussions around an evangelical declaration on AI, 2026 (author's notes; unpublished at the time of writing); on narrative-shape defaults, the author's comparison of four models generating Swahili children's stories, November 2026 (unpublished). On the founder's formative years and eschatology, see Bob Hoskins, \"To Which Kingdom Do You Belong?\" (sermon, Calvary Chapel Fort Lauderdale, Fort Lauderdale, FL, August 28, 2026), video, <a href=\"https://www.youtube.com/watch?v=4pm-2u3eRbI.\">https://www.youtube.com/watch?v=4pm-2u3eRbI.</a>"
+   "html": "World Bank, <em>Africa Economic Update, October 2026: Building AI Readiness</em> (Washington, DC: World Bank, 2026), executive summary, <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content</a>. On positioning Global South youth as builders, see the drafting discussions around an evangelical declaration on AI, 2026 (author's notes; unpublished at the time of writing); on narrative-shape defaults, the author's comparison of four models generating Swahili children's stories, November 2026 (unpublished). On the founder's formative years and eschatology, see Bob Hoskins, \"To Which Kingdom Do You Belong?\" (sermon, Calvary Chapel Fort Lauderdale, Fort Lauderdale, FL, August 28, 2026), video, <a href=\"https://www.youtube.com/watch?v=4pm-2u3eRbI\">https://www.youtube.com/watch?v=4pm-2u3eRbI</a>."
   },
   {
    "n": 14,
@@ -391,7 +391,7 @@ const T = {
   },
   {
    "n": 15,
-   "html": "Todd J. Korpi, \"The Machine in the Mirror: What an AI-Created Religion Reveals About Spirit-Empowered Ministry,\" <em>Spiritus: ORU Journal of Theology</em> 11, no. 2 (2026): 173, <a href=\"https://doi.org/10.31380/2573-6345.1439.\">https://doi.org/10.31380/2573-6345.1439.</a>"
+   "html": "Todd J. Korpi, \"The Machine in the Mirror: What an AI-Created Religion Reveals About Spirit-Empowered Ministry,\" <em>Spiritus: ORU Journal of Theology</em> 11, no. 2 (2026): 173, <a href=\"https://doi.org/10.31380/2573-6345.1439\">https://doi.org/10.31380/2573-6345.1439</a>."
   },
   {
    "n": 16,
@@ -407,7 +407,7 @@ const T = {
   },
   {
    "n": 19,
-   "html": "Adam Graber and Toby Beresford, <em>Digital Nations: Mapping the Church's Online Opportunities</em> (Swindon: Bible Society, 2025), <a href=\"https://www.biblesociety.org.uk/research/digital-nations.\">https://www.biblesociety.org.uk/research/digital-nations.</a>"
+   "html": "Adam Graber and Toby Beresford, <em>Digital Nations: Mapping the Church's Online Opportunities</em> (Swindon: Bible Society, 2025), <a href=\"https://www.biblesociety.org.uk/research/digital-nations\">https://www.biblesociety.org.uk/research/digital-nations</a>."
   },
   {
    "n": 20,
@@ -425,11 +425,11 @@ const T = {
  "bibliography": [
   "Bebbington, David W. <em>Evangelicalism in Modern Britain: A History from the 1730s to the 1980s</em>. London: Unwin Hyman, 1989.",
   "Crouch, Andy. \"As for Me and My Household, We'll Resist Mammon.\" <em>Christianity Today</em> 66, no. 4 (2022): 68–74.",
-  "Graber, Adam, and Toby Beresford. <em>Digital Nations: Mapping the Church's Online Opportunities</em>. Swindon: Bible Society, 2025. <a href=\"https://www.biblesociety.org.uk/research/digital-nations.\">https://www.biblesociety.org.uk/research/digital-nations.</a>",
+  "Graber, Adam, and Toby Beresford. <em>Digital Nations: Mapping the Church's Online Opportunities</em>. Swindon: Bible Society, 2025. <a href=\"https://www.biblesociety.org.uk/research/digital-nations\">https://www.biblesociety.org.uk/research/digital-nations</a>.",
   "Hodges, Melvin L. <em>The Indigenous Church</em>. Springfield, MO: Gospel Publishing House, 1953.",
-  "Hoskins, Bob. \"To Which Kingdom Do You Belong?\" Sermon, Calvary Chapel Fort Lauderdale, Fort Lauderdale, FL, August 28, 2026. Video. <a href=\"https://www.youtube.com/watch?v=4pm-2u3eRbI.\">https://www.youtube.com/watch?v=4pm-2u3eRbI.</a>",
+  "Hoskins, Bob. \"To Which Kingdom Do You Belong?\" Sermon, Calvary Chapel Fort Lauderdale, Fort Lauderdale, FL, August 28, 2026. Video. <a href=\"https://www.youtube.com/watch?v=4pm-2u3eRbI\">https://www.youtube.com/watch?v=4pm-2u3eRbI</a>.",
   "Hoskins, Rob. \"Bringing Clarity to 21st Century Missions.\" Address, 2019. Transcript in the author's possession.",
-  "Korpi, Todd J. \"The Machine in the Mirror: What an AI-Created Religion Reveals About Spirit-Empowered Ministry.\" <em>Spiritus: ORU Journal of Theology</em> 11, no. 2 (2026): 161–174. <a href=\"https://doi.org/10.31380/2573-6345.1439.\">https://doi.org/10.31380/2573-6345.1439.</a>",
+  "Korpi, Todd J. \"The Machine in the Mirror: What an AI-Created Religion Reveals About Spirit-Empowered Ministry.\" <em>Spiritus: ORU Journal of Theology</em> 11, no. 2 (2026): 161–174. <a href=\"https://doi.org/10.31380/2573-6345.1439\">https://doi.org/10.31380/2573-6345.1439</a>.",
   "Leo XIV. <em>Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence</em>. Vatican City: Libreria Editrice Vaticana, 2026.",
   "Newbigin, Lesslie. <em>The Gospel in a Pluralist Society</em>. Grand Rapids: Eerdmans, 1989.",
   "OneHope. <em>Global Youth Culture: Online and Off-Course</em>. Pompano Beach, FL: OneHope, 2020.",
@@ -437,7 +437,7 @@ const T = {
   "OneHope. 2027 Strategy Meetings. Internal sessions, August 24–27, 2026. Unpublished.",
   "Stott, John. <em>Our Guilty Silence: The Church, the Gospel and the World</em>. London: Hodder &amp; Stoughton, 1967.",
   "Tennent, Timothy C. <em>Invitation to World Missions: A Trinitarian Missiology for the Twenty-First Century</em>. Grand Rapids: Kregel, 2010.",
-  "World Bank. <em>Africa Economic Update, October 2026: Building AI Readiness</em>. Washington, DC: World Bank, 2026. <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content.</a>",
+  "World Bank. <em>Africa Economic Update, October 2026: Building AI Readiness</em>. Washington, DC: World Bank, 2026. <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content</a>.",
   "Wright, Christopher J. H. <em>The Mission of God's People: A Biblical Theology of the Church's Mission</em>. Grand Rapids: Zondervan, 2010."
  ],
  "citationCheck": "Citation check, November 18, 2026: Bebbington 2–3, Hodges 1–13, Tennent 33–42, the Global Youth Culture subtitle, the Digital Nations report, and the World Bank source for the two-percent figure were verified against public catalog and publisher listings. The Digital Nations author order was confirmed against the report cover and the Hoskins sermon venue and video link were confirmed by the author."

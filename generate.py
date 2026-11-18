@@ -18,7 +18,7 @@ def inline(s):
     s = re.sub(r"\[\^(\d+)\]", lambda m: f'<sup><a href="#n{m.group(1)}" id="r{m.group(1)}">{m.group(1)}</a></sup>', s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<em>\1</em>", s)
-    s = re.sub(r"(https?://[^\s<)]+)", r'<a href="\1">\1</a>', s)
+    s = re.sub(r"(https?://[^\s<)]+?)([.,;:]?)(?=\s|$|<)", r'<a href="\1">\1</a>\2', s)
     return s
 
 def paragraphs(block):
