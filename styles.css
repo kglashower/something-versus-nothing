@@ -244,7 +244,6 @@ hr.horizon { border: 0; height: 0; border-top: 2px solid var(--navy); margin: 0;
 .notes-list .back { text-decoration: none; color: var(--oasis); margin-left: 6px; font-family: var(--sans); }
 .bib-list { list-style: none; padding: 0; font-size: 0.92rem; max-width: 44rem; }
 .bib-list li { padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em; }
-.citation-check { font-family: var(--sans); font-size: 0.78rem; color: var(--ink-3); max-width: 44rem; border-top: 1px solid var(--rule); padding-top: 12px; margin-top: 20px; }
 .site-footer { padding: 30px 0 40px; color: var(--ink-3); font-family: var(--sans); font-size: 0.76rem; letter-spacing: 0.06em; text-transform: uppercase; border-top: 1px solid var(--rule); }
 .site-footer p { margin: 0 0 6px; }
 

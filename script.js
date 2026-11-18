@@ -111,7 +111,6 @@
   // ---------- notes and bibliography
   $("#notes-list").innerHTML = T.notes.map((n) => `<li id="n${n.n}">${n.html} <a class="back" href="#r${n.n}" aria-label="Back to text">↩</a></li>`).join("");
   $("#bib-list").innerHTML = T.bibliography.map((b) => `<li>${b}</li>`).join("");
-  $("#citation-check").innerHTML = T.citationCheck;
 
   // ---------- theme (shares the tree's key so a reader's choice carries across)
   const root = document.documentElement;
