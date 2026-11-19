@@ -363,7 +363,7 @@ const T = {
   },
   {
    "n": 8,
-   "html": "OneHope, <em>Global Youth Culture: Online and Off-Course</em> (Pompano Beach, FL: OneHope, 2020); on the three pillars of Scripture engagement, faith community, and family, and on parents as the ceiling of a child's religious commitment, see the OneHope research presentations at the Hoskins School intensive, September 10–11, 2026 (author's notes)."
+   "html": "OneHope, <em>Global Youth Culture: Insights from a Digital Generation</em> (Pompano Beach, FL: OneHope, 2020); on the three pillars of Scripture engagement, faith community, and family, and on parents as the ceiling of a child's religious commitment, see the OneHope research presentations at the Hoskins School intensive, September 10–11, 2026 (author's notes)."
   },
   {
    "n": 9,
@@ -432,7 +432,7 @@ const T = {
   "Korpi, Todd J. \"The Machine in the Mirror: What an AI-Created Religion Reveals About Spirit-Empowered Ministry.\" <em>Spiritus: ORU Journal of Theology</em> 11, no. 2 (2026): 161–174. <a href=\"https://doi.org/10.31380/2573-6345.1439\">https://doi.org/10.31380/2573-6345.1439</a>.",
   "Leo XIV. <em>Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence</em>. Vatican City: Libreria Editrice Vaticana, 2026.",
   "Newbigin, Lesslie. <em>The Gospel in a Pluralist Society</em>. Grand Rapids: Eerdmans, 1989.",
-  "OneHope. <em>Global Youth Culture: Online and Off-Course</em>. Pompano Beach, FL: OneHope, 2020.",
+  "OneHope. <em>Global Youth Culture: Insights from a Digital Generation</em>. Pompano Beach, FL: OneHope, 2020.",
   "OneHope. Internal survey of senior leaders on organizational \"wineskin cracks.\" August 2026. Unpublished.",
   "OneHope. 2027 Strategy Meetings. Internal sessions, August 24–27, 2026. Unpublished.",
   "Stott, John. <em>Our Guilty Silence: The Church, the Gospel and the World</em>. London: Hodder &amp; Stoughton, 1967.",
@@ -440,5 +440,5 @@ const T = {
   "World Bank. <em>Africa Economic Update, October 2026: Building AI Readiness</em>. Washington, DC: World Bank, 2026. <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content\">https://openknowledge.worldbank.org/server/api/core/bitstreams/e9c12e3c-a50e-496b-8a43-2293732873fe/content</a>.",
   "Wright, Christopher J. H. <em>The Mission of God's People: A Biblical Theology of the Church's Mission</em>. Grand Rapids: Zondervan, 2010."
  ],
- "citationCheck": "Citation check, November 18, 2026: Bebbington 2–3, Hodges 1–13, Tennent 33–42, the Global Youth Culture subtitle, the Digital Nations report, and the World Bank source for the two-percent figure were verified against public catalog and publisher listings. The Digital Nations author order was confirmed against the report cover and the Hoskins sermon venue and video link were confirmed by the author."
+ "citationCheck": "Citation check, November 18, 2026: Bebbington 2–3, Hodges 1–13, Tennent 33–42, the Digital Nations report, and the World Bank source for the two-percent figure were verified against public catalog and publisher listings. The Global Youth Culture subtitle was corrected to \"Insights from a Digital Generation\" against the report cover on November 18, 2026. The Digital Nations author order was confirmed against the report cover and the Hoskins sermon venue and video link were confirmed by the author."
 };
